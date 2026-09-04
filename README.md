@@ -113,14 +113,6 @@ My current focus is on developing better **application architecture, database de
 
 ---
 
-## 📊 GitHub Stats
-
-![Yafi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yafi-bd&show_icons=true&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yafi-bd&layout=compact&hide_border=true)
-
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: [Yafi Sheikh](https://www.linkedin.com/in/yafi-sheikh-365943433/)
