@@ -41,9 +41,9 @@
 </p>
 
 ### 📚 Currently Exploring
-
 <p>
-  <img src="https://skillicons.dev/icons?i=sql,python" alt="Currently Learning">
+  <img src="https://skillicons.dev/icons?i=python" width="70" alt="Python">
+  <img src="https://skillicons.dev/icons?i=mysql" width="70" alt="MySQL">
 </p>
 
 <hr>
