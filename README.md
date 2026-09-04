@@ -1,4 +1,4 @@
-[# 👋 Hi, I'm Yafi Sheikh
+# 👋 Hi, I'm Yafi Sheikh
 
 ### CSE Student | C++ & Python Developer | Desktop Application Developer
 
@@ -11,36 +11,31 @@ Currently working with **C++, Python, PySide6, SQLite, and Object-Oriented Progr
 ## 🛠️ Tech Stack
 
 ### Languages
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frameworks & Libraries
+
 ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ### Database
+
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### Concepts
+
 `Object-Oriented Programming` · `Encapsulation` · `Inheritance` · `Polymorphism`
 
 ---
 
 ## 🚀 Currently Building
-
-### ✈️ Travel Agency Management System
-
-A full desktop application designed for managing travel packages, customers, bookings, payments, and administrative operations.
-
-**Tech:** Python · PySide6 · SQLite · OOP
-
-**Status:** 🚧 Ongoing
-
----
 
 ### 📚 Library Management System
 
@@ -62,6 +57,18 @@ A management application for organizing student information, records, and academ
 
 ---
 
+## 🏆 Completed Project
+
+### ✈️ Travel Agency Management System
+
+A full desktop application designed for managing travel packages, customers, bookings, payments, and administrative operations.
+
+**Tech:** Python · PySide6 · SQLite · OOP
+
+**Status:** ✅ Completed
+
+---
+
 ## 🎯 What I'm Learning
 
 - 💻 Software Development
@@ -71,6 +78,7 @@ A management application for organizing student information, records, and academ
 - 🧩 Object-Oriented Programming
 - 🔧 Git & GitHub
 - 📦 Application Packaging and Deployment
+- 🏗️ Software Architecture
 
 ---
 
@@ -78,19 +86,34 @@ A management application for organizing student information, records, and academ
 
 | Project | Description | Status |
 |---|---|---|
-|### ✈️ Travel Agency Management System
-
-A full desktop application designed for managing travel packages, customers, bookings, payments, and administrative operations.
-
-**Tech:** Python · PySide6 · SQLite · OOP
-
-**Status:** ✅ Completed
+| ✈️ [Travel Agency Management System](https://github.com/yafi-bd/travel-agency-management-system) | Desktop travel agency management application | ✅ Completed |
 | 📚 [Library Management System](https://github.com/yafi-bd/library-management-system) | Database-driven library management application | 🚧 Ongoing |
 | 🎓 [Student Management System](https://github.com/yafi-bd/student-management-system) | Student information and management application | 🚧 Ongoing |
 
 ---
 
-## 📊 GitHub
+## 💻 What I Build
+
+I enjoy creating applications that solve practical problems, particularly:
+
+- 🖥️ Desktop Applications
+- 🗄️ Database Management Systems
+- 📊 Management & Administrative Systems
+- 🔐 Authentication & User Management
+- 📦 Business Applications
+- ⚙️ Automation Tools
+
+---
+
+## 📈 Development Journey
+
+I'm continuously improving my programming and software engineering skills by building complete applications rather than only practicing individual programming concepts.
+
+My current focus is on developing better **application architecture, database design, user interfaces, OOP practices, and software development workflows.**
+
+---
+
+## 📊 GitHub Stats
 
 ![Yafi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yafi-bd&show_icons=true&hide_border=true&rank_icon=github)
 
@@ -100,16 +123,16 @@ A full desktop application designed for managing travel packages, customers, boo
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: **[Your LinkedIn Profile](YOUR_LINKEDIN_URL)**
-- 📧 Email: **YOUR_EMAIL**
-- 🐙 GitHub: [@yafi-bd](https://github.com/yafi-bd)
+- 💼 LinkedIn: [Yafi Sheikh](https://www.linkedin.com/in/yafi-sheikh-365943433/)
+- 📘 Facebook: [Yafi Sheikh](https://www.facebook.com/araf.sheikh.969/)
+- 📧 Email: [yafisheikhbd@gmail.com](mailto:yafisheikhbd@gmail.com)
 
 ---
 
-### 💡 My Goal
+## 🎯 My Goal
 
 > To continuously improve my development skills by building useful software, learning modern technologies, and turning ideas into working applications.
 
 ---
 
-⭐ **Thanks for visiting my profile!**](https://www.facebook.com/araf.sheikh.969/)
+⭐ **Thanks for visiting my profile!**
