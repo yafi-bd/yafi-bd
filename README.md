@@ -14,13 +14,11 @@
 
 ## 🚀 About Me
 
-- 🎓 I'm a **Computer Science & Engineering student** from Bangladesh
 - 💻 I'm currently focused on **C++ and Python development**
 - 🧩 I'm strengthening my knowledge of **Object-Oriented Programming**
 - 🖥️ I enjoy building **practical desktop applications**
 - 🛠️ I'm working on projects involving **C++, Qt, and application management systems**
 - 🌱 I'm currently learning **Python, SQL, Git, and Software Engineering**
-- 🔍 I enjoy understanding how software works rather than simply making it work
 - 🤝 I'm interested in collaborating on **interesting software projects**
 - 🎯 My goal is to become a strong **software developer** capable of building real-world applications
 
