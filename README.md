@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on **Python Desktop Apps & C++ Projects**
 - 🌱 I’m currently expanding my knowledge in **Data Structures, Algorithms & OOP**
 - 🤝 I’m open to collaborating on **C/C++ & Python Open Source Projects**
-- 💬 Ask me about **C, C++, Python, HTML, or VS Code Setup**
+- 💬 Ask me about **C, C++, Python, HTML**
 - ⚡ **Soft Skills:** Problem Solving, Effective Communication, Quick Learner
 
 ---
@@ -27,7 +27,7 @@
 
 <p align="center">
   <!-- Email Badge -->
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:yafisheikhbd@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <!-- LinkedIn Badge -->
@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <!-- Facebook Badge -->
-  <a href="https://facebook.com/araf.sheikh.969">
+  <a href="https://facebook.com/araf.sheikh.969/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,vscode,git,github" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,git,github" />
   </a>
 </p>
 
