@@ -2,11 +2,14 @@
 
 <hr>
 
-<h2 align="center">💻 Computer Science & Engineering Student | Software Developer | Bangladesh 🇧🇩</h2>
+<h2 align="center">💻 Computer Science & Engineering Student | Software Development | 🇧🇩 Bangladesh</h2>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=C%2B%2B+%26+Python+Developer;Desktop+Application+Development;Object-Oriented+Programming;Building+Practical+Software" alt="Typing SVG">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=C%2B%2B+%26+Python;Desktop+Application+Development;Object-Oriented+Programming;Building+Practical+Software"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
@@ -14,13 +17,15 @@
 
 ## 🚀 About Me
 
-- 💻 I'm currently focused on **C++ and Python development**
-- 🧩 I'm strengthening my knowledge of **Object-Oriented Programming**
-- 🖥️ I enjoy building **practical desktop applications**
-- 🛠️ I'm working on projects involving **C++, Qt, and application management systems**
-- 🌱 I'm currently learning **Python, SQL, Git, and Software Engineering**
-- 🤝 I'm interested in collaborating on **interesting software projects**
-- 🎯 My goal is to become a strong **software developer** capable of building real-world applications
+- 🎓 I'm a **Computer Science & Engineering student** from Bangladesh
+- 💻 Currently focused on **C++ and Python**
+- 🧩 Building a strong foundation in **Object-Oriented Programming**
+- 🖥️ Interested in **desktop application development**
+- 🛠️ Building practical software projects with **C++ and Qt**
+- 🌱 Currently exploring **Python, SQL, Git, and software engineering**
+- 🧠 I enjoy solving problems and understanding how software works
+- 🤝 Open to collaborating on interesting software projects
+- 🎯 Working toward becoming a **professional software developer**
 
 <hr>
 
@@ -29,19 +34,23 @@
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python" alt="Languages">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
 
-### 🔧 Tools & Technologies
+### 🖥️ Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=qt,git,github,linux,vscode" alt="Tools and Technologies">
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt">
+  <img src="https://img.shields.io/badge/OOP-2C3E50?style=for-the-badge" alt="Object Oriented Programming">
 </p>
 
-### 📚 Currently Exploring
+### 🔧 Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python" width="70" alt="Python">
-  <img src="https://skillicons.dev/icons?i=mysql" width="70" alt="MySQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
 </p>
 
 <hr>
@@ -52,17 +61,17 @@
 
 A desktop-based **Travel Agency Management System** designed around realistic travel-agency workflows.
 
-The system focuses on customer bookings, travel packages, payments, cancellations, refunds, and administrative management.
+The project focuses on customer bookings, travel packages, payment processing, cancellations, refunds, and administrative operations.
 
-**Built with:** `C++` `Qt` `SQL`
+**Tech Stack:** `C++` `Qt` `SQL`
 
 ---
 
 ### 🎓 Student Management System
 
-A management application designed to organize student information and perform common student-management operations.
+A student management application designed to organize student information and handle common academic management operations.
 
-**Built with:** `C++` `Object-Oriented Programming`
+**Tech Stack:** `C++` `OOP`
 
 ---
 
@@ -70,32 +79,37 @@ A management application designed to organize student information and perform co
 
 A library management application for managing books, members, borrowing, returning, and other library operations.
 
-**Built with:** `C++` `Object-Oriented Programming`
+**Tech Stack:** `C++` `OOP`
 
 ---
 
-> 🚧 More projects are currently being developed and will be added here.
+<p align="center">
+  🚧 More projects are currently in development.
+</p>
 
 <hr>
 
-## 🌱 Currently Learning
+## 📚 Currently Exploring
 
-- 🔹 Advanced **C++**
-- 🔹 **Object-Oriented Programming**
-- 🔹 **Data Structures & Algorithms**
-- 🔹 **Python**
-- 🔹 **SQL & Database Design**
-- 🔹 **Git & GitHub**
-- 🔹 **Software Engineering**
-- 🔹 Desktop Application Development
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Software%20Engineering-2C3E50?style=for-the-badge" alt="Software Engineering">
+</p>
 
 <hr>
 
 ## 🎯 My Goal
 
-> **Build. Learn. Break. Understand. Improve.**
+<p align="center">
 
-Rather than simply learning programming languages, I want to understand how to design systems, solve problems, build applications, and continuously improve them.
+> <strong>Build. Learn. Break. Understand. Improve.</strong>
+
+</p>
+
+I'm focused on strengthening my programming fundamentals and turning what I learn into **practical, real-world software**.
+
+My goal isn't simply to learn more programming languages. I want to understand how to **design systems, solve problems, build applications, and continuously improve them.**
 
 <hr>
 
@@ -116,21 +130,17 @@ Rather than simply learning programming languages, I want to understand how to d
 <p align="center">
 
 <a href="https://github.com/yafi-bd">
-  <img src="https://img.shields.io/badge/GitHub-yafi--bd-181717?style=for-the-badge&logo=github" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-yafi--bd-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/yafi-sheikh-365943433/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://www.facebook.com/araf.sheikh.969/">
-  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook" alt="Facebook">
+  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
 
-</p>
-
-<p align="center">
-  📍 Bangladesh
 </p>
 
 <hr>
