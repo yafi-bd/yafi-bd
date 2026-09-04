@@ -2,7 +2,7 @@
 
 <hr>
 
-<h2 align="center">💻 Computer Science & Engineering Student | Software Development | 🇧🇩 Bangladesh</h2>
+<h2 align="center">💻 CSE Student | C++ & Python Developer | Desktop Application Developer</h2>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
