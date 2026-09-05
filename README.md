@@ -53,7 +53,7 @@ A management application for organizing student information, records, and academ
 
 **Tech:** C++ / Python · SQLite · OOP
 
-**Status:** 🚧 Ongoing
+**Status:** ✅ Completed
 
 ---
 
