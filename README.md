@@ -1,130 +1,134 @@
 # 👋 Hi, I'm Yafi Sheikh
 
-### CSE Student | C++ & Python Developer | Desktop Application Developer
+### CSE Student · C++ & Python Developer · Desktop Application Developer
 
-I'm a Computer Science & Engineering student from Bangladesh who enjoys building practical software and desktop applications.
+Computer Science & Engineering student focused on building practical software with **C++, Python, PySide6, SQLite, and OOP**.
 
-Currently working with **C++, Python, PySide6, SQLite, and Object-Oriented Programming**, while developing real-world management systems and improving my software engineering skills.
+I build complete desktop applications with real-world workflows, database persistence, authentication, and structured application architecture.
+
+---
+
+## 🌐 Portfolio & Resume
+
+<p align="center">
+
+<a href="https://yafi-bd.github.io/">
+  <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20My%20Portfolio-c7ff3d?style=for-the-badge" alt="Portfolio" />
+</a>
+
+<a href="https://yafi-bd.github.io/resume.pdf">
+  <img src="https://img.shields.io/badge/📄%20RESUME-View%20My%20Resume-181717?style=for-the-badge" alt="Resume" />
+</a>
+
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+**Languages:** C · C++ · Python
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Framework:** PySide6
 
-### Frameworks & Libraries
+**Database:** SQLite
 
-![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+**Core:** OOP · Encapsulation · Inheritance · Polymorphism
 
-### Database
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-### Concepts
-
-`Object-Oriented Programming` · `Encapsulation` · `Inheritance` · `Polymorphism`
+**Tools:** Git · GitHub · VS Code
 
 ---
 
-## 🚀 Currently Building
+# 🚀 Projects
 
-### 📚 Library Management System
+## ✈️ Travel Agency Management System
 
-A database-driven application for managing books, members, borrowing records, returns, and other library operations.
+**Python · PySide6 · SQLite · OOP**
 
-**Tech:** C++ / Python · SQLite · OOP
+Desktop travel agency application with:
 
-**Status:** 🚧 Ongoing
-
----
-
-### 🎓 Student Management System
-
-A management application for organizing student information, records, and academic data.
-
-**Tech:** C++ / Python · SQLite · OOP
+* Customer & admin workflows
+* Travel package management
+* Booking & multi-traveler support
+* Date-based seat availability
+* Payments & transaction references
+* Cancellation/refund status
+* Persistent SQLite storage
 
 **Status:** ✅ Completed
 
+<a href="https://github.com/yafi-bd/travel-agency-management-system">
+  <img src="https://img.shields.io/badge/💻%20VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="Travel Agency Repository" />
+</a>
+
 ---
 
-## 🏆 Completed Project
+## 🎓 Student Management System
 
-### ✈️ Travel Agency Management System
+**Python · PySide6 · SQLite · OOP**
 
-A full desktop application designed for managing travel packages, customers, bookings, payments, and administrative operations.
+Desktop student-management application featuring:
 
-**Tech:** Python · PySide6 · SQLite · OOP
+* Secure admin authentication
+* Student profiles & record management
+* Attendance tracking
+* Payment & history management
+* Revenue reporting
+* CSV export
+* Persistent SQLite database
+* Model / Repository / Service architecture
 
 **Status:** ✅ Completed
 
----
-
-## 🎯 What I'm Learning
-
-- 💻 Software Development
-- 🐍 Python Application Development
-- 🖥️ Desktop GUI Development with PySide6
-- 🗄️ Database Design with SQLite
-- 🧩 Object-Oriented Programming
-- 🔧 Git & GitHub
-- 📦 Application Packaging and Deployment
-- 🏗️ Software Architecture
+<a href="https://github.com/yafi-bd/student-management-system">
+  <img src="https://img.shields.io/badge/💻%20VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="Student Management Repository" />
+</a>
 
 ---
 
-## 📂 Featured Projects
+## 📚 Library Management System
 
-| Project | Description | Status |
-|---|---|---|
-| ✈️ [Travel Agency Management System](https://github.com/yafi-bd/travel-agency-management-system) | Desktop travel agency management application | ✅ Completed |
-| 📚 [Library Management System](https://github.com/yafi-bd/library-management-system) | Database-driven library management application | 🚧 Ongoing |
-| 🎓 [Student Management System](https://github.com/yafi-bd/student-management-system) | Student information and management application | ✅ Completed |
+**C++ · OOP**
 
----
+Currently developing a library-management application focused on books, members, borrowing, returns, and structured data handling.
 
-## 💻 What I Build
-
-I enjoy creating applications that solve practical problems, particularly:
-
-- 🖥️ Desktop Applications
-- 🗄️ Database Management Systems
-- 📊 Management & Administrative Systems
-- 🔐 Authentication & User Management
-- 📦 Business Applications
-- ⚙️ Automation Tools
+**Status:** 🚧 In Development
 
 ---
 
-## 📈 Development Journey
+## 📈 Currently Learning
 
-I'm continuously improving my programming and software engineering skills by building complete applications rather than only practicing individual programming concepts.
-
-My current focus is on developing better **application architecture, database design, user interfaces, OOP practices, and software development workflows.**
+`Software Architecture` · `Database Design` · `PySide6` · `Testing & Debugging` · `Application Packaging & Deployment`
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Career Goal
 
-- 💼 LinkedIn: [Yafi Sheikh](https://www.linkedin.com/in/yafi-sheikh-365943433/)
-- 📘 Facebook: [Yafi Sheikh](https://www.facebook.com/araf.sheikh.969/)
-- 📧 Email: [yafisheikhbd@gmail.com](mailto:yafisheikhbd@gmail.com)
+I'm looking for opportunities to **grow as a software developer, contribute to real-world projects, and gain hands-on industry experience.**
 
----
-
-## 🎯 My Goal
-
-> To continuously improve my development skills by building useful software, learning modern technologies, and turning ideas into working applications.
+Interested in **C++ / Python development, desktop applications, software engineering, and practical problem solving.**
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://yafi-bd.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-c7ff3d?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
+</a>
+
+<a href="https://www.linkedin.com/in/yafi-sheikh-365943433/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="mailto:arafsheikh14325@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>Build · Learn · Improve 🚀</b>
+</p>
