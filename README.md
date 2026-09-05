@@ -88,7 +88,7 @@ A full desktop application designed for managing travel packages, customers, boo
 |---|---|---|
 | ✈️ [Travel Agency Management System](https://github.com/yafi-bd/travel-agency-management-system) | Desktop travel agency management application | ✅ Completed |
 | 📚 [Library Management System](https://github.com/yafi-bd/library-management-system) | Database-driven library management application | 🚧 Ongoing |
-| 🎓 [Student Management System](https://github.com/yafi-bd/student-management-system) | Student information and management application | 🚧 Ongoing |
+| 🎓 [Student Management System](https://github.com/yafi-bd/student-management-system) | Student information and management application | ✅ Completed |
 
 ---
 
